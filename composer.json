@@ -15,10 +15,10 @@
     "extra": {
         "component": {
             "files": [
-                "langs/*",
-                "plugins/*",
-                "skins/*",
-                "themes/*",
+                "langs/**",
+                "plugins/**",
+                "skins/**",
+                "themes/**",
                 "tinymce.*"
             ]
         }
