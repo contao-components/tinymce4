@@ -1,0 +1,26 @@
+{
+    "name": "contao-components/tinymce4",
+    "type": "component",
+    "description": "TinyMCE 4 integration for Contao Open Source CMS",
+    "license": "LGPL-2.1+",
+    "authors": [
+        {
+            "name": "Leo Feyer",
+            "homepage": "https://github.com/leofeyer"
+        }
+    ],
+    "require": {
+        "robloach/component-installer": "~0.0"
+    },
+    "extra": {
+        "component": {
+            "files": [
+                "langs/*",
+                "plugins/*",
+                "skins/*",
+                "themes/*",
+                "tinymce.*"
+            ]
+        }
+    }
+}
