@@ -15,11 +15,7 @@
     "extra": {
         "component": {
             "files": [
-                "langs/**",
-                "plugins/**",
-                "skins/**",
-                "themes/**",
-                "tinymce.*"
+                "js/**"
             ]
         }
     }
