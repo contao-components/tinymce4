@@ -1,6 +1,6 @@
 {
     "name": "contao-components/tinymce4",
-    "type": "component",
+    "type": "contao-component",
     "description": "TinyMCE 4 integration for Contao Open Source CMS",
     "license": "LGPL-2.1+",
     "authors": [
@@ -10,13 +10,6 @@
         }
     ],
     "require": {
-        "robloach/component-installer": "~0.0"
-    },
-    "extra": {
-        "component": {
-            "files": [
-                "js/**"
-            ]
-        }
+        "contao-components/installer": "~1.0"
     }
 }
