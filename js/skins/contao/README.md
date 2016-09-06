@@ -58,7 +58,7 @@ skin.min.css
     font: 300 .875rem/1.2 Roboto,sans-serif;
 }
 .mce-window-head .mce-title {
-    font-size: 16px;
+    font-size: 17px;
     font-weight: 400;
 }
 .mce-container, .mce-container *:not(.mce-menu-shortcut), .mce-widget, .mce-widget *, .mce-reset, .mce-menubar .mce-menubtn button span, .mce-menu-item .mce-ico, .mce-menu-item .mce-text, .mce-path-item, .mce-menubtn button {
@@ -69,8 +69,5 @@ skin.min.css
 }
 .mce-tooltip, .mce-tooltip * {
     color: #fff;
-}
-.mce-window-head .mce-close {
-    top: 6px;
 }
 ```
