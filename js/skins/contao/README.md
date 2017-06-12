@@ -12,6 +12,10 @@ content.min.css
 ---------------
 
 ```css
+@import 'fonts.min.css';
+
+/* original content */
+
 body, th, td {
     font: .875rem/1.2 Lato,Roboto,sans-serif;
     color: #222;
@@ -30,6 +34,10 @@ skin.min.css
 ------------
 
 ```css
+@import 'fonts.min.css';
+
+/* original content */
+
 .mce-tinymce {
     border-radius: 2px;
 }
