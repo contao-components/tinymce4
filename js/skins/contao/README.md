@@ -62,7 +62,7 @@ content.min.css
 
 @font-face {
     font-family: "Lato";
-    src: local("Lato Semibold"), url(fonts/Lato-Semibold.woff2) format("woff2"), url(fonts/Lato-Semibold.woff) format("woff");
+    src: local("Lato Bold"), url(fonts/Lato-Bold.woff2) format("woff2"), url(fonts/Lato-Bold.woff) format("woff");
     font-weight: 700;
     font-style: normal;
     text-rendering: optimizeLegibility;
@@ -70,7 +70,7 @@ content.min.css
 
 @font-face {
     font-family: "Lato";
-    src: local("Lato Semibold Italic"), url(fonts/Lato-SemiboldItalic.woff2) format("woff2"), url(fonts/Lato-SemiboldItalic.woff) format("woff");
+    src: local("Lato Bold Italic"), url(fonts/Lato-BoldItalic.woff2) format("woff2"), url(fonts/Lato-BoldItalic.woff) format("woff");
     font-weight: 700;
     font-style: italic;
     text-rendering: optimizeLegibility;
