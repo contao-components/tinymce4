@@ -1,7 +1,7 @@
 {
     "name": "contao-components/tinymce4",
     "type": "contao-component",
-    "description": "TinyMCE 4 integration for Contao Open Source CMS",
+    "description": "TinyMCE integration for Contao Open Source CMS",
     "license": "LGPL-2.1-or-later",
     "authors": [
         {
