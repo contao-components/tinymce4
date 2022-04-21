@@ -1,4 +1,4 @@
-tinymce.addI18n('it_IT',{
+tinymce.addI18n('it',{
 "Redo": "Ripristina",
 "Undo": "Annulla",
 "Cut": "Taglia",
