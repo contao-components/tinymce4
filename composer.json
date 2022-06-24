@@ -1,12 +1,12 @@
 {
     "name": "contao-components/tinymce4",
-    "type": "contao-component",
     "description": "TinyMCE integration for Contao Open Source CMS",
     "license": "LGPL-2.1-or-later",
+    "type": "contao-component",
     "authors": [
         {
-            "name": "Leo Feyer",
-            "homepage": "https://github.com/leofeyer"
+            "name": "Tiny",
+            "homepage": "https://github.com/tinymce"
         }
     ],
     "require": {
